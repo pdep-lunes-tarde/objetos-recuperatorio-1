@@ -2,17 +2,13 @@
 
 ## Enunciado
 
-https://docs.google.com/document/d/e/2PACX-1vT7Zid45W_xiJtqafv3z9Vo7XRWS46XPT8T3jUZX0-4s_Oz5ZJHbExoD3-qIjas7Zk223ebQC-d_mVC/pub
+En papel
 
 ## Estudiante
 
 **Nombre y apellido:** -completar acá-
 
 **Número de legajo:** -completar acá-
-
-## Tiempo del parcial
-
-Entre 14:15 y 17:30.
 
 ## Que hacer cuando terminan el parcial
 
